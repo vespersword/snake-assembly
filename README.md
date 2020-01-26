@@ -1,5 +1,5 @@
 # snake-assembly
-A college project that shows the movement part of the snake game.
+A college project that shows the movement part of the snake game using assembly. <br>
 Requires emu8086.
 
 ![image of snake](https://raw.githubusercontent.com/vespersword/snake-assembly/master/Capture.PNG)
